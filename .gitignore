@@ -1,0 +1,12 @@
+*.pyc
+*.swp
+.idea/*
+/tmp
+*.local.ini
+config/*.local.yml
+.DS_Store
+env/
+reports/
+tests/.pytest_cache
+/.pytest_cache
+*.xml

@@ -1,0 +1,18 @@
+[MASTER]
+disable=missing-docstring,
+        missing-class-docstring,
+        missing-module-docstring,
+        too-many-instance-attributes,
+        too-few-public-methods,
+        too-many-public-methods,
+        import-error,
+        fixme
+
+ignore=README.md, requirements.txt, env, pytest.ini, env
+
+[SIMILARITIES]
+ignore-imports=yes
+
+[FORMAT]
+max-line-length=240
+module-naming-style = any
