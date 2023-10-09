@@ -5,7 +5,7 @@ registration form for https://www.dutch.com
 
 ## Project Overview
 
-Test tsk for Senior QA Automation role
+Test task for Senior QA Automation role
 
 ## Getting Started
 
@@ -23,11 +23,11 @@ These instructions will help you set up and run the project on your local machin
    ```bash
    git clone git@github.com:Serdu4ok/registration_form.git
 
-### Run tests
-
-# To run test without headless
+### To run test without headless
 
 - Go to src/fixtures/set_up_ui.py and comment this line of code -options.add_argument('--headless')
+
+### Run tests
 
 1. Run Tests in a Specific Directory:
     - pytest path/to/your/directory
